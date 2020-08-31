@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/Saf/weatherForecast","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}},"virtualbox":{"/home/vagrant/laravel":{"guestpath":"/home/vagrant/laravel","hostpath":"C:/Users/Saf/weatherForecast/files","disabled":false,"__vagrantfile":true}}}
