@@ -2,7 +2,7 @@
 
 ### Dockerize existing laravel project using laradock and vagrant
 
-### You can find the tutorial at: http://safventure.live/dockerize-existing-laravel-project-with-laradock-and-vagrant
+### You can find the tutorial at: https://josafebalili.com/posts/Dockerize-existing-Laravel-project-with-Laradock-and-Vagrant/
 
 To execute:
 
